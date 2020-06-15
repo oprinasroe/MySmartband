@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySmartband</string>
+    <string name="profile">Profile</string>
+    <string name="nama_profile">Opri Nasruloh</string>
+    <string name="email_profile">opri.revlica@gmail.com</string>
+    <string name="detailname">Detail Smartband</string>
+    <string name="daftar_smartband">Daftar Smartband</string>
+</resources>
